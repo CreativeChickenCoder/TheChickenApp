@@ -12,7 +12,7 @@ Python code for the chicken app
 
 - Released under the MIT License.
 
-\## Usage
+## Usage
 
 [Flask Installation Guide](https://flask.palletsprojects.com/en/stable/installation/)
 
